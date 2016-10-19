@@ -1,0 +1,16 @@
+[submodule "git-partner-contact"]
+	path = git-partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 9.0
+[submodule "repos/partner-contact"]
+	path = repos/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 9.0
+[submodule "repos/auto_backup"]
+	path = repos/auto_backup
+	url = git@github.com:Yenthe666/auto_backup.git
+	branch = 9.0
+[submodule "repos/l10n-switzerland"]
+	path = repos/l10n-switzerland
+	url = git@github.com:OCA/l10n-switzerland.git
+	branch = 9.0
