@@ -14,3 +14,11 @@
 	path = repos/l10n-switzerland
 	url = git@github.com:OCA/l10n-switzerland.git
 	branch = 9.0
+[submodule "repos/bank-statement-reconcile"]
+	path = repos/bank-statement-reconcile
+	url = git@github.com:OCA/bank-statement-reconcile.git
+	branch = 9.0
+[submodule "repos/bank-payment"]
+	path = repos/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 9.0
