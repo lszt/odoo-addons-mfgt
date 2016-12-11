@@ -26,3 +26,7 @@
 	path = repos/stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
 	branch = 9.0
+[submodule "repos/bank-statement-import"]
+	path = repos/bank-statement-import
+	url = https://github.com/OCA/bank-statement-import.git
+	branch = 9.0
