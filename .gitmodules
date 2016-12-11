@@ -22,3 +22,7 @@
 	path = repos/bank-payment
 	url = git@github.com:OCA/bank-payment.git
 	branch = 9.0
+[submodule "repos/stock-logistics-warehouse"]
+	path = repos/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 9.0
