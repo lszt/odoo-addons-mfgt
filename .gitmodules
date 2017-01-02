@@ -30,3 +30,6 @@
 	path = repos/bank-statement-import
 	url = https://github.com/OCA/bank-statement-import.git
 	branch = 9.0
+[submodule "repos/profile-mfgt"]
+	path = repos/profile-mfgt
+	url = git@github.comr:lszt/odoo-profile-mfgt.git
