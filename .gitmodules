@@ -12,8 +12,8 @@
 	branch = 9.0-disablehostschecking
 [submodule "repos/l10n-switzerland"]
 	path = repos/l10n-switzerland
-	url = git@github.com:OCA/l10n-switzerland.git
-	branch = 9.0
+	url = git@github.com:lszt/l10n-switzerland.git
+	branch = 9.0-mfgt
 [submodule "repos/bank-statement-reconcile"]
 	path = repos/bank-statement-reconcile
 	url = git@github.com:OCA/bank-statement-reconcile.git
