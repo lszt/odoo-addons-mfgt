@@ -8,8 +8,8 @@
 	branch = 9.0
 [submodule "repos/auto_backup"]
 	path = repos/auto_backup
-	url = git@github.com:Yenthe666/auto_backup.git
-	branch = 9.0
+	url = git@github.com:lszt/auto_backup.git
+	branch = 9.0-disablehostschecking
 [submodule "repos/l10n-switzerland"]
 	path = repos/l10n-switzerland
 	url = git@github.com:OCA/l10n-switzerland.git
@@ -32,4 +32,4 @@
 	branch = 9.0
 [submodule "repos/profile-mfgt"]
 	path = repos/profile-mfgt
-	url = git@github.comr:lszt/odoo-profile-mfgt.git
+	url = https://github.com/lszt/odoo-profile-mfgt
