@@ -33,3 +33,6 @@
 [submodule "repos/profile-mfgt"]
 	path = repos/profile-mfgt
 	url = git@github.com:lszt/odoo-profile-mfgt
+[submodule "repos/mfgt-salelayout-textonly"]
+	path = repos/mfgt-salelayout-textonly
+	url = https://github.com/lszt/odoo-mfgt-salelayout-textonly.git
