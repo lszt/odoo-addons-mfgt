@@ -36,3 +36,7 @@
 [submodule "repos/mfgt-salelayout-textonly"]
 	path = repos/mfgt-salelayout-textonly
 	url = https://github.com/lszt/odoo-mfgt-salelayout-textonly.git
+[submodule "repos/web"]
+	path = repos/web
+	url = git@github.com:OCA/web.git
+	branch = 9.0
