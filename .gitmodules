@@ -40,3 +40,7 @@
 	path = repos/web
 	url = git@github.com:OCA/web.git
 	branch = 9.0
+[submodule "repos/odoo-addons-custom-mfgt"]
+	path = repos/odoo-addons-custom-mfgt
+	url = git@github.com:lszt/odoo-addons-custom-mfgt.git
+	branch = 9.0
