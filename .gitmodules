@@ -41,3 +41,7 @@
 	path = repos/odoo-addons-custom-mfgt
 	url = git@github.com:lszt/odoo-addons-custom-mfgt.git
 	branch = 9.0
+[submodule "repos/server-tools"]
+	path = repos/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 9.0
