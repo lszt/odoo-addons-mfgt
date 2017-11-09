@@ -28,8 +28,8 @@
 	branch = 9.0
 [submodule "repos/bank-statement-import"]
 	path = repos/bank-statement-import
-	url = https://github.com/OCA/bank-statement-import.git
-	branch = 9.0
+	url = git@github.com:lszt/bank-statement-import.git
+	branch = 9.0-mfgt
 [submodule "repos/mfgt-salelayout-textonly"]
 	path = repos/mfgt-salelayout-textonly
 	url = https://github.com/lszt/odoo-mfgt-salelayout-textonly.git
