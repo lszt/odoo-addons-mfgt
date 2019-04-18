@@ -45,3 +45,7 @@
 	path = repos/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 9.0
+[submodule "repos/hr-timesheet"]
+	path = repos/hr-timesheet
+	url = https://github.com/OCA/hr-timesheet.git
+	branch = 9.0
